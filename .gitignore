@@ -32,3 +32,4 @@ build/
 
 .gemini-cli/
 .env
+packages/material_toolkit
