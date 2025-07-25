@@ -31,5 +31,10 @@ migrate_working_dir/
 build/
 
 .gemini-cli/
+.claude-cli
 .env
-packages/material_toolkit
+utils.js
+lib/src/md
+lib/src/ds
+lib/src/mt
+lib/src/trash

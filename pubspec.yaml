@@ -1,6 +1,6 @@
 name: material_design_system
 description: "A Flutter package for a consistent and easy-to-use design system based on Material Design 3 tokens."
-version: 0.0.1
+version: 0.0.2
 # author: Kevin Kobori <https://www.linkedin.com/in/kevin-kobori/>
 homepage:
 repository: https://github.com/fluttely/material_design_system
@@ -13,8 +13,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  material_design: ^0.2.6
-  material_toolkit: ^0.2.0
+  material_design: ^0.9.0
+  # material_toolkit: ^0.2.0
   # material_design:
   #   path: packages/material_toolkit/packages/material_design
   # material_toolkit:

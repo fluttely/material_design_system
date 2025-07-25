@@ -11,14 +11,14 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  material_design: ^0.2.6
-  material_toolkit: ^0.2.0
+  # material_design: ^0.2.6
+  # material_toolkit: ^0.2.0
   # material_design:
   #   path: ../packages/material_toolkit/packages/material_design
-  material_design_system:
-    path: ../
   # material_toolkit:
   #   path: ../packages/material_toolkit
+  material_design_system:
+    path: ../
   provider: ^6.1.5
 
 dev_dependencies:
