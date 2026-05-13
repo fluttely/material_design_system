@@ -1,5 +1,8 @@
 include: package:very_good_analysis/analysis_options.yaml
 
 formatter:
-  trailing_commas: preserve
+  format_on_save: true
+  line_length: 80
   page_width: 80
+  sort_imports: true
+  trailing_commas: preserve
